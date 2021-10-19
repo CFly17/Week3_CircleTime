@@ -1,0 +1,14 @@
+C:\Users\CFlynn3\source\repos\Week3_CircleTime\Week3_CircleTime\obj\Debug\netcoreapp3.1\Week3_CircleTime.csproj.AssemblyReference.cache
+C:\Users\CFlynn3\source\repos\Week3_CircleTime\Week3_CircleTime\obj\Debug\netcoreapp3.1\Week3_CircleTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFlynn3\source\repos\Week3_CircleTime\Week3_CircleTime\obj\Debug\netcoreapp3.1\Week3_CircleTime.AssemblyInfoInputs.cache
+C:\Users\CFlynn3\source\repos\Week3_CircleTime\Week3_CircleTime\obj\Debug\netcoreapp3.1\Week3_CircleTime.AssemblyInfo.cs
+C:\Users\CFlynn3\source\repos\Week3_CircleTime\Week3_CircleTime\obj\Debug\netcoreapp3.1\Week3_CircleTime.csproj.CoreCompileInputs.cache
+C:\Users\CFlynn3\source\repos\Week3_CircleTime\Week3_CircleTime\bin\Debug\netcoreapp3.1\Week3_CircleTime.exe
+C:\Users\CFlynn3\source\repos\Week3_CircleTime\Week3_CircleTime\bin\Debug\netcoreapp3.1\Week3_CircleTime.deps.json
+C:\Users\CFlynn3\source\repos\Week3_CircleTime\Week3_CircleTime\bin\Debug\netcoreapp3.1\Week3_CircleTime.runtimeconfig.json
+C:\Users\CFlynn3\source\repos\Week3_CircleTime\Week3_CircleTime\bin\Debug\netcoreapp3.1\Week3_CircleTime.runtimeconfig.dev.json
+C:\Users\CFlynn3\source\repos\Week3_CircleTime\Week3_CircleTime\bin\Debug\netcoreapp3.1\Week3_CircleTime.dll
+C:\Users\CFlynn3\source\repos\Week3_CircleTime\Week3_CircleTime\bin\Debug\netcoreapp3.1\Week3_CircleTime.pdb
+C:\Users\CFlynn3\source\repos\Week3_CircleTime\Week3_CircleTime\obj\Debug\netcoreapp3.1\Week3_CircleTime.dll
+C:\Users\CFlynn3\source\repos\Week3_CircleTime\Week3_CircleTime\obj\Debug\netcoreapp3.1\Week3_CircleTime.pdb
+C:\Users\CFlynn3\source\repos\Week3_CircleTime\Week3_CircleTime\obj\Debug\netcoreapp3.1\Week3_CircleTime.genruntimeconfig.cache
