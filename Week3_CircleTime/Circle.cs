@@ -29,11 +29,17 @@ namespace Week3_CircleTime
         }
         public double CalculateArea()
         {
-            double area = (Math.PI) * Math.Pow(Radius, 2);
+            double area = (Math.PI) * Math.Pow(Radius, 2) * Math.Pow(Radius, 2);
             double areaRounded = Math.Round(area, 2);
             Console.WriteLine($"The area of your circle is {areaRounded}.");
             return area;
         }
+        public double CalculateDiameter()
+        {
+            double Diameter = Radius * 2;
+            return Diameter;
+        }
+        
         //Added parameter for function 'Continue()'. This parameter awaits data in Program.cs. 
         public bool Continue(List<Circle> Circles)
         {
