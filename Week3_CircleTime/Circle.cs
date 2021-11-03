@@ -17,7 +17,6 @@ namespace Week3_CircleTime
             this.Radius = Radius;
         }
 
-
         //METHODS
         public double CalculateCircumference()
         {
@@ -25,14 +24,12 @@ namespace Week3_CircleTime
             double circRounded = Math.Round(circ, 2);
             //rounding of answer -- look into Math. class
             Console.WriteLine($"The circumference of your circle is {circRounded}.");
-            return circ;
         }
         public double CalculateArea()
         {
             double area = (Math.PI) * Math.Pow(Radius, 2);
             double areaRounded = Math.Round(area, 2);
             Console.WriteLine($"The area of your circle is {areaRounded}.");
-            return area;
         }
         //Added parameter for function 'Continue()'. This parameter awaits data in Program.cs. 
         public bool Continue(List<Circle> Circles)
@@ -63,7 +60,6 @@ namespace Week3_CircleTime
                     continue;
                 }
             }
-            return false;
         }
         //public override string ToString()
         //{
