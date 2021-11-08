@@ -20,16 +20,16 @@ namespace Week3_CircleTime
 
         //METHODS
         public double CalculateCircumference()
-        {
-            double circ = 2 * Radius * Math.PI;
-            double circRounded = Math.Round(circ, 2);
+        { 
+            double circ = 2 * Math.Abs(Radius) * Math.PI; //added absolute value of radius as my preferred method of handling negative inputs
+            double circRounded = Math.Round(circ, 2); //wasn't returning circumference rounded
             //rounding of answer -- look into Math. class
             Console.WriteLine($"The circumference of your circle is {circRounded}.");
             return circ;
         }
         public double CalculateArea()
         {
-            double area = (Math.PI) * Math.Pow(Radius, 2) * Math.Pow(Radius, 2);
+            double area = (Math.PI) * Math.Pow(Radius, 2);
             double areaRounded = Math.Round(area, 2);
             Console.WriteLine($"The area of your circle is {areaRounded}.");
             return area;

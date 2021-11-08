@@ -5,8 +5,8 @@ namespace Week3_CircleTime
 {
     class Program
     {
-        public static List<Circle> Circles { get; set; } = new List<Circle>();
-        static void Main(string[] args)
+        //public static List<Circle> Circles { get; set; } = new List<Circle>();
+        /*static void Main(string[] args)
         {
             //prompt user for radius
             //prompt to continue
@@ -33,6 +33,6 @@ namespace Week3_CircleTime
                
                 goOn = c.Continue(Circles);
             }
-        }
+        }*/
     }
 }
